@@ -12,8 +12,8 @@ It can be valuable to:
 
 *Developers looking to integrate facial expression recognition into their applications or services.\
 Researchers in the field of computer vision and machine learning who want to experiment with emotion analysis.\
-Data scientists and engineers working on projects related to human behavior analysis.\
-Anyone interested in understanding the potential of AI in recognizing emotions from facial expressions.*
+Data scientists and engineers working on projects related to human behaviour analysis.\
+Is anyone interested in understanding the potential of AI in recognizing emotions from facial expressions.*
 
 
 
@@ -29,3 +29,12 @@ Anyone interested in understanding the potential of AI in recognizing emotions f
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimalan-parameshwaran-97b7a2256)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nimalan49032055)
 
+## Screenshots
+
+![Screenshot 2023-09-03 174148](https://github.com/nimalan-parameshwaran/Face_Expression_Recognition/assets/125173606/350d9d5c-8107-41a6-86b3-a845f04c47bd)
+
+
+![Screenshot 2023-09-03 174242](https://github.com/nimalan-parameshwaran/Face_Expression_Recognition/assets/125173606/3feed603-845a-4656-b504-82e944b4215c)
+
+
+![Screenshot 2023-09-03 174409](https://github.com/nimalan-parameshwaran/Face_Expression_Recognition/assets/125173606/9b0d78a9-19d7-48ed-bb6f-87ffebc724c9)
